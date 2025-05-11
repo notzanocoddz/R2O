@@ -52,7 +52,7 @@
     ["Bull"] = game.ReplicatedStorage.BullHit,
     ["Dice"] = game.ReplicatedStorage.DiceHit,
     ["Ghost"] = game.ReplicatedStorage.GhostHit,
-    ["Thanos"] = game.ReplicatedStorage.ThanosHit,
+    --["Thanos"] = game.ReplicatedStorage.ThanosHit,
     ["Stun"] = game.ReplicatedStorage.HtStun,
     ["Za Hando"] = game.ReplicatedStorage.zhramt,
     ["Fort"] = game.ReplicatedStorage.Fort,
